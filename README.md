@@ -1,2 +1,2 @@
 # tempuser1909.github.io
-My portfolio/writings/kb/projects
+My resume/writings/kb/projects
